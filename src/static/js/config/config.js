@@ -3,7 +3,7 @@ export const CONFIG = {
         //VERSION: 'v1',
         VERSION: 'v1beta',
         //VERSION: 'v1alpha',
-        MODEL_NAME: 'models/gemini-live-2.5-flash-preview'
+        MODEL_NAME: 'models/gemini-2.0-flash-exp'
         //MODEL_NAME: 'models/gemini-3-flash-preview'
     },
     // You can change the system instruction to your liking
