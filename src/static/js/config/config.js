@@ -1,6 +1,7 @@
 export const CONFIG = {
     API: {
-        VERSION: 'v1beta',
+        VERSION: 'v1',
+        //VERSION: 'v1beta',
         //VERSION: 'v1alpha',
         //MODEL_NAME: 'models/gemini-live-2.5-flash'
         //MODEL_NAME: 'models/gemini-live-2.5-flash-preview'
